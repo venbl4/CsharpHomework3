@@ -5,9 +5,9 @@ VisualStudioVersion = 16.0.31515.178
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "HomeWork3", "HomeWork3", "{D0958685-6A4D-4E06-8F39-727E9E5DB52D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComplexNumber", "ComplexNumber\ComplexNumber.csproj", "{85AB430A-6020-496F-A2CA-17730140CC15}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ComplexNumber", "ComplexNumber\ComplexNumber.csproj", "{85AB430A-6020-496F-A2CA-17730140CC15}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SummaPositiveNumber", "SummaPositiveNumber\SummaPositiveNumber.csproj", "{72DE697B-A7CC-4D73-8028-05B36F7E66EB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SummaPositiveNumber", "SummaPositiveNumber\SummaPositiveNumber.csproj", "{72DE697B-A7CC-4D73-8028-05B36F7E66EB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
